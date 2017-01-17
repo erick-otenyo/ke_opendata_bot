@@ -17,7 +17,7 @@ You need to provide:
 
 When the configuration is complete you can install the dependencies with:
 
-    $ pip install  aiohttp telepot
+    $ pip3.5 install  aiohttp telepot
 
 And run the bot with:
 
