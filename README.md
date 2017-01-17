@@ -23,7 +23,7 @@ And run the bot with:
 
     $ python bot.py
     
- ## Usage
+## Usage
 With the bot running you can send him a text of the title of the dataset to search, and it will respond with a list of the datasets found.
 
 Then it provides buttons for downloading a CSV copy of the data. A download shapefile button  will aslo appear if the dataset is a spatial dataset, for mapping purposes.
