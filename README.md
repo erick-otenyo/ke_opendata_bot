@@ -1,5 +1,5 @@
 # Kenya Open Data Search Telegram Bot
-A Telegram bot that lets you search data from Kenya Open Data, www.opendata.go.ke
+A Telegram bot that lets you search and download data easily from Kenya Open Data, www.opendata.go.ke
 
 ## Requirements
 * [Python 3.5](http://www.python.org)
