@@ -101,8 +101,8 @@ async def on_callback_query(msg):
 			file = open(get_f,'rb')
 			await bot.sendDocument(chat_id, file)
 
-
-bot = telepot.aio.Bot("272125870:AAEXTFGM3haMsU_39QGAsi3hh3q1dOLvZYI")
+YOUR_TOKEN ='BOT_TOKEN_HERE' 
+bot = telepot.aio.Bot(YOUR_TOKEN)
 answerer = telepot.aio.helper.Answerer(bot)
 loop = asyncio.get_event_loop()
 loop.create_task(bot.message_loop({'chat': opendata,
